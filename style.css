@@ -1,0 +1,29 @@
+body   {
+    font-family: sans-serif, fantasy;
+    color: white;
+    background-image: url(arkaplan.jpg);
+    background-size:cover;
+    font-size: 20px;
+    width: 50%;
+    margin:auto;
+}
+img  {
+       width:50%;
+    border: 8px dotted red;
+        border-radius: 50%;
+    display:block;
+    margin: auto;
+   } 
+
+h1 {
+    border-bottom: 5px solid red;
+    text-align: center;
+    background-color: #fce300;
+}
+#paragraf1 {
+    color: red;
+    text-align: center
+    }
+.kirmizi {
+    color: red;
+        text-align: center
